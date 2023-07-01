@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on creating an android app for [Anilist](https://github.com/kbeka/Anilist)
 
-- 🌱 I’m currently learning **R, React, Android Studio**
+- 🌱 I’m currently learning **C#**
 
 - 📫 How to reach me **kleo.beka97@gmail.com**
 
